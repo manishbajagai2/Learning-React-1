@@ -26,6 +26,7 @@ body{
     font-size: 22px;
     color: #61DAFB;
     letter-spacing: -0.05em;
+    margin-right: 10px;
 }
 
 
@@ -33,7 +34,6 @@ body{
     font-family: Inter, sans-serif;
     color: #DEEBF8;
     margin-left: auto;
-    padding: auto;
 }
 
 main{
@@ -53,7 +53,7 @@ main{
 }
 
 .main--points{
-    margin: 55px 70px;
+    margin: 55px 25px;
 }
 
 .main--points > li{
